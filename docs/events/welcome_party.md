@@ -5,6 +5,7 @@
 ## When
 
 4 PM - 8 PM
+
 Saturday, December 20th 2025
 
 ## Where
