@@ -12,14 +12,14 @@
 
 There are many many options in the city for you to stay, but here are our suggested locations. They are either close to Japantown (near where we live and where the welcome dinner will take place) or close to a BART station for easy access to the public transit both to the airport and to Pleasanton where the reception is taking place.
 
-### Queen Anne 
+### Queen Anne
 
 1590 Sutter St. 
 San Francisco, CA 94109
 
 The Queen Anne is a luxury hotel near Japantown in San Francisco. It is where the wedding party will be staying for the wedding, so if you’d like to join them, feel free to get a room!
 
-https://www.queenanne.com/ 
+<https://www.queenanne.com/> 
 
 ### Kabuki Hotel
 
@@ -30,7 +30,7 @@ The Kabuki Hotel is a boutique hotel that is a part of Hyatt hotels. It is in Ja
 
 We also have a promo code! If you use the following link and immediately click “Book Now,” you’ll be able to take part in the offer. 
 
-https://www.hyatt.com/jdv-by-hyatt/en-US/sfojd-jdv-hotel-kabuki?corp_id=128309 
+<https://www.hyatt.com/jdv-by-hyatt/en-US/sfojd-jdv-hotel-kabuki?corp_id=128309>
 
 ## In Pleasanton
 

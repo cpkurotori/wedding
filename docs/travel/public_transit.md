@@ -2,30 +2,30 @@
 
 - [Public Transit](#public-transit)
   - [From the Airport to the City](#from-the-airport-to-the-city)
-    - [SFO⁠](#sfo)
-    - [OAK⁠](#oak)
-    - [SJC⁠](#sjc)
+    - [SFO⁠ {sfo-atc}](#sfo-sfo-atc)
+    - [OAK⁠⁠ {oak-atc}](#oak-oak-atc)
+    - [SJC⁠⁠ {sjc-atc}](#sjc-sjc-atc)
   - [From the Airport to Pleasanton (Reception Location)](#from-the-airport-to-pleasanton-reception-location)
-    - [SFO⁠](#sfo-1)
-    - [OAK⁠](#oak-1)
-    - [SJC⁠](#sjc-1)
+    - [SFO⁠⁠ {sfo-atp}](#sfo-sfo-atp)
+    - [OAK⁠⁠ {oak-atp}](#oak-oak-atp)
+    - [SJC⁠⁠ {sjc-atp}](#sjc-sjc-atp)
   - [From the City to Pleasanton (Reception Location)](#from-the-city-to-pleasanton-reception-location)
   - [In the City](#in-the-city)
 
 
 ## From the Airport to the City
 
-### SFO⁠
+### SFO⁠ {sfo-atc}
 
 It’s very easy to get into the city from the airport. Our underground system, Bay Area Rapid Transit (BART), has a station at the airport and it will go directly into the city from there! 
 https://www.flysfo.com/passengers/ground-transportation/public-transit 
 
-### OAK⁠
+### OAK⁠⁠ {oak-atc}
 
 It is just as easy to get to the city from the Oakland airport as they also have a BART station. Getting from Oakland, however, will require a transfer from the Brown Line (the line that specifically goes to the Oakland airport) to any of the other lines heading into the city. 
 https://www.iflyoak.com/ground-transportation/public-transportation/ 
 
-### SJC⁠
+### SJC⁠⁠ {sjc-atc}
 
 As San Jose is significantly further from the city than the other airports, it will take longer to travel into San Francisco, but it is still possible! The Airport has a bus that goes to the nearest BART station, from where you can enter the city easily. 
 https://www.flysanjose.com/public-transit 
@@ -33,20 +33,20 @@ https://www.flysanjose.com/public-transit
 
 ## From the Airport to Pleasanton (Reception Location)
 
-### SFO⁠
+### SFO⁠⁠ {sfo-atp}
 
 Just like going into the city, the best public transit to Pleasanton is our underground system, BART. For this you’ll need a Clipper Card. To get to Pleasanton, you’ll want to transfer from the Yellow Line (the line that goes to the airport) to the Blue Line. From the Blue Line, you’ll want to get off at the Dublin/Pleasanton station. 
-https://www.flysfo.com/passengers/ground-transportation/public-transit 
+<https://www.flysfo.com/passengers/ground-transportation/public-transit >
 
-### OAK⁠
+### OAK⁠⁠ {oak-atp}
 
 To get to Pleasanton from the Oakland airport, you will need to use BART. You will take the Brown Line, which is the only option at the airport, and then transfer to the Blue Line. The Blue Line will take you directly to the Dublin/Pleasanton station. 
-https://www.iflyoak.com/ground-transportation/public-transportation/ 
+<https://www.iflyoak.com/ground-transportation/public-transportation/ >
 
-### SJC⁠
+### SJC⁠⁠ {sjc-atp}
 
 As San Jose is significantly further from the city than the other airports, it will take longer to travel into San Francisco, but it is still possible! The Airport has a bus that goes to the nearest BART station, from where you can enter the city easily. You can then transfer to the Blue Line to make your way to the Dublin/Pleasanton station. 
-https://www.flysanjose.com/public-transit 
+<https://www.flysanjose.com/public-transit>
 
 ## From the City to Pleasanton (Reception Location)
 

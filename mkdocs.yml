@@ -1,1 +1,9 @@
 site_name: Cam and Quinn's Wedding Travel Guide
+site_url: https://kurotori.land
+theme: pulse
+watch:
+  - docs
+use_directory_urls: true
+strict: true
+markdown_extensions:
+  - footnotes
