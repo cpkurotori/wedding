@@ -1,7 +1,9 @@
 site_name: Cam and Quinn's Wedding Travel Guide
 site_url: https://kurotori.land
 theme:
-  name: material
+  name: material  
+  palette:
+    primary: deep purple
   features:
     - navigation.instant
     - navigation.instant.prefetch
