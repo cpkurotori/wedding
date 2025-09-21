@@ -15,3 +15,6 @@ markdown_extensions:
   - footnotes
   - toc
   - admonition
+plugins:
+  - search
+  - awesome-nav
