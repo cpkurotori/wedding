@@ -1,1 +1,1 @@
-mkdocs-bootswatch
+mkdocs-material

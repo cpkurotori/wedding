@@ -5,7 +5,6 @@
     - [Queen Anne](#queen-anne)
     - [Kabuki Hotel](#kabuki-hotel)
   - [In Pleasanton](#in-pleasanton)
-    - [A](#a)
 
 
 ## In San Francisco
@@ -36,5 +35,5 @@ We also have a promo code! If you use the following link and immediately click �
 
 While there isn’t as much to do in Pleasanton as San Francisco, it is where the reception is taking place, so it would make a convenient location to stay if you are only coming for the day of the wedding. It’s a cute town with a wonderful downtown. It’s also the city where Cam grew up. A few good locations to stay include:
 
-### A
+Recommendations TBD
 
