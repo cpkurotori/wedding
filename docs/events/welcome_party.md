@@ -19,4 +19,4 @@ While we would love to have another chance to celebrate with all of our loved on
 
 ## Dress Code
 
-This dinner is meant to be a casual event, so don’t feel the need to dress up! As a fun challenge, try to wear blues and purples to match Cam and Quinn’s favorite colors!
+This dinner is meant to be a casual event, so don’t feel the need to dress up! As a fun challenge, try to wear blues and purples to match our favorite colors!

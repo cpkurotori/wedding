@@ -20,7 +20,7 @@ The Queen Anne is a luxury hotel near Japantown in San Francisco. It is where th
 1625 Post St. 
 San Francisco, CA 94115
 
-The Kabuki Hotel is a boutique hotel that is a part of Hyatt hotels. It is in Japantown in San Francisco, near Cam and Quinn’s home and very close to Quinn’s work at the Western Addition Branch Library! 
+The Kabuki Hotel is a boutique hotel that is a part of Hyatt hotels. It is in Japantown in San Francisco, near our home and very close to Quinn’s work at the Western Addition Branch Library! 
 
 We also have a promo code! If you use the following link and immediately click “Book Now,” you’ll be able to take part in the offer. 
 
