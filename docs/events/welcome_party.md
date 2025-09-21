@@ -16,7 +16,7 @@ Saturday, December 20th 2025
 
 We will be hosting a welcome dinner on the night of December 20 for all those who have come out of town for this special occasion.
 
-While we would love to have another chance to celebrate with all of our loved ones, we have limited space at the venue, so we’ve limited the attendees to those who are traveling the extra distance for the wedding. Your RSVP should state whether you will attend the welcome dinner, but if you have questions, don’t hesitate to ask. 
+While we would love to have another chance to celebrate with all of our loved ones, we have limited space at the venue, so we’ve limited the attendees to those who are traveling the extra distance for the wedding. Your RSVP should state whether you will attend the welcome dinner, but if you have questions or need clarification, don’t hesitate to ask. 
 
 ## Dress Code
 

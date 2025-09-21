@@ -8,17 +8,17 @@ There are many many options in the city for you to stay, but here are our sugges
 
 ### Queen Anne
 
-1590 Sutter St. 
-San Francisco, CA 94109
+1590 Sutter St., San Francisco, CA 94109
 
-The Queen Anne is a luxury hotel near Japantown in San Francisco. It is where the wedding party will be staying for the wedding, so if you’d like to join them, feel free to get a room!
+The Queen Anne is a luxury hotel near Japantown in San Francisco. The wedding party will be staying here for the wedding, so if you’d like to join them, feel free to get a room! This is our main recommendation.
+
+If you want to try to get a discount, try calling to make the reservation and mention that you will be staying for our wedding. We cannot guarantee that it will work, but it's worth a try.
 
 <https://www.queenanne.com/> 
 
 ### Kabuki Hotel
 
-1625 Post St. 
-San Francisco, CA 94115
+1625 Post St., San Francisco, CA 94115
 
 The Kabuki Hotel is a boutique hotel that is a part of Hyatt hotels. It is in Japantown in San Francisco, near our home and very close to Quinn’s work at the Western Addition Branch Library! 
 
