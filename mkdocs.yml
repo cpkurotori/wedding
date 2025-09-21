@@ -7,9 +7,8 @@ theme:
     - navigation.instant.prefetch
     - navigation.tracking
     - navigation.tabs
-watch:
-  - docs
 use_directory_urls: true
 strict: true
 markdown_extensions:
   - footnotes
+  - toc

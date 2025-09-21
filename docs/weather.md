@@ -1,8 +1,5 @@
 # Weather
-- [Weather](#weather)
-  - [What to expect](#what-to-expect)
-  - [What to wear](#what-to-wear)
-    - [Windy](#windy)
+[TOC]
 
 ## What to expect
 The weather in San Francisco is fairly constant throughout the year, but December does tend towards colder weather. The average temperatures range from a high of 58℉ and a low of 46℉. While it is not likely to rain, there is still a chance that it will.

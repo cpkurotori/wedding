@@ -1,11 +1,6 @@
 # Reception
 
-- [Reception](#reception)
-    - [When](#when)
-    - [Where](#where)
-    - [What](#what)
-    - [Dress Code](#dress-code)
-    - [What to Bring](#what-to-bring)
+[TOC]
 
 ## When
 

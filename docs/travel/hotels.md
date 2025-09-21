@@ -1,11 +1,6 @@
 # Hotels
 
-- [Hotels](#hotels)
-  - [In San Francisco](#in-san-francisco)
-    - [Queen Anne](#queen-anne)
-    - [Kabuki Hotel](#kabuki-hotel)
-  - [In Pleasanton](#in-pleasanton)
-
+[TOC]
 
 ## In San Francisco
 

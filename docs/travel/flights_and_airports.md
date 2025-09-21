@@ -1,10 +1,6 @@
 # Flights and Airports
 
-- [Flights and Airports](#flights-and-airports)
-  - [SFO](#sfo)
-  - [OAK](#oak)
-  - [SJC⁠](#sjc)
-
+[TOC]
 
 We are fortunate enough in San Francisco to be located close to three different airports. This should hopefully make finding a flight relatively easy and offers a greater number of options to find the best deal on a flight. For more information about each of the airports, and their relative convenience, read below:
 

@@ -1,5 +1,7 @@
 # San Francisco
 
+[TOC]
+
 ## Our Recommendations
 
 This is our list of recommendations

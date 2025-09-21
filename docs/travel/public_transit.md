@@ -1,16 +1,6 @@
 # Public Transit
 
-- [Public Transit](#public-transit)
-  - [From the Airport to the City](#from-the-airport-to-the-city)
-    - [SFO](#sfo)
-    - [OAK⁠⁠](#oak)
-    - [SJC⁠⁠](#sjc)
-  - [From the Airport to Pleasanton (Reception Location)](#from-the-airport-to-pleasanton-reception-location)
-    - [SFO⁠](#sfo-1)
-    - [OAK](#oak-1)
-    - [SJC](#sjc-1)
-  - [From the City to Pleasanton (Reception Location)](#from-the-city-to-pleasanton-reception-location)
-
+[TOC]
 
 ## From the Airport to the City
 

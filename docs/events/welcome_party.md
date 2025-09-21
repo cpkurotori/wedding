@@ -1,10 +1,6 @@
 # Welcome Party
 
-- [Welcome Party](#welcome-party)
-  - [When](#when)
-  - [Where](#where)
-  - [What](#what)
-  - [Dress Code](#dress-code)
+[TOC]
 
 ## When
 
