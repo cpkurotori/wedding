@@ -14,7 +14,7 @@ There are many many options in the city for you to stay, but here are our sugges
 
 The Queen Anne is a luxury hotel near Japantown in San Francisco. The wedding party will be staying here for the wedding, so if you’d like to join them, feel free to get a room! This is our main recommendation.
 
-If you want to try to get a discount, try calling to make the reservation and mention that you will be staying for our wedding. We cannot guarantee that it will work, but it's worth a try.
+If you'd like to book, please call them 24/7 at 415-441-2827 or their toll free number 800-227-3970 and mention the "Kurotori-Vreeland wedding" for the best price.
 
 <https://www.queenanne.com/> 
 
