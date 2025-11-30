@@ -32,7 +32,4 @@ We also have a promo code! If you use the following link and immediately click �
 
 ## In Pleasanton
 
-While there isn’t as much to do in Pleasanton as San Francisco, it is where the reception is taking place, so it would make a convenient location to stay if you are only coming for the day of the wedding. It’s a cute town with a wonderful downtown. It’s also the city where Cam grew up. A few good locations to stay include:
-
-Recommendations TBD
-
+While there isn’t as much to do in Pleasanton as San Francisco, it is where the reception is taking place, so it would make a convenient location to stay if you are only coming for the day of the wedding. It’s a cute town with a wonderful downtown. It’s also the city where Cam grew up. If you need suggestions for hotels in Pleasanton, please reach out!
