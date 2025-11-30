@@ -9,12 +9,12 @@ We want to spend time with you, so PLEASE join us in these
 various activities to make for more opportunity for joy and
 revelry.
 
-Please see the list of events below and click the link (Event Title)
+Please see the list of events below and click the link (Event column)
 for more information and to RSVP!
 
-| Date                    | Time       | Event Title                                                                                                                                             |
-| ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Monday, December 15th   | 4pm - 9pm  | [Food Prep Party](https://www.google.com/url?q=https://partiful.com/e/Zkj9mwfCM2tgca8LATMn&sa=D&source=calendar&usd=2&usg=AOvVaw03jRZ9OM01c1hzb7JUy6bm) |
-| Thursday, December 18th | 11am - 2pm | Decorations Making (Partiful link coming...)                                                                                                                                     |
-| Thursday, December 18th | 7pm - 10pm | [Ice Skating](https://partiful.com/e/aGvK8BAYJUxYSHTmoL7f)                                                                                              |
-| Friday, December 19th   | 10am - 3pm | [Golden Gate Park Hangout](https://partiful.com/e/pd3k89QgTGoAMv6aSevz)                                                                                 |
+| Event                                                                                                                                                   | When                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Food Prep Party](https://www.google.com/url?q=https://partiful.com/e/Zkj9mwfCM2tgca8LATMn&sa=D&source=calendar&usd=2&usg=AOvVaw03jRZ9OM01c1hzb7JUy6bm) | Monday, December 15th 2025 4PM - 9PM    |
+| Decorations Making (Partiful link coming...)                                                                                                            | Thursday, December 18th 2025 11AM - 2PM |
+| [Ice Skating](https://partiful.com/e/aGvK8BAYJUxYSHTmoL7f)                                                                                              | Thursday, December 18th 2025 7PM - 10PM |
+| [Golden Gate Park Hangout](https://partiful.com/e/pd3k89QgTGoAMv6aSevz)                                                                                 | Friday, December 19th 2025 10AM - 3PM   |
