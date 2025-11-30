@@ -12,7 +12,9 @@ Saturday, December 20th 2025
 
 ![2000 post](https://images1.apartments.com/i2/e0Wr9F5lljlgKKbK2Jjm0rbadLkg0O_7p6pKxK-GtNQ/111/2000-post-san-francisco-ca-building-photo.jpg)
 
-2000 Post St, San Francisco, CA 94117
+1626 Pierce St, San Francisco, CA 94115
+
+This address is the side entrance of the building. For the first half hour, we will have someone there to let you in and guide you to the room. If you arive later and no one is at the door, please call us and we will be sure to let you in.
 
 ## What
 
