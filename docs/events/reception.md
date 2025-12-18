@@ -34,6 +34,38 @@ Celebrating with you is all we want, truly!
 
 ## Getting Here
 
+### BART (Bay Area Rapid Transit)
+
+If you can make it to the East Dublin/Pleasanton BART Station, we will pick you up! We have a number of volunteer drivers that will take you to and from the station and the reception venue throughout the afternoon and evening!
+
+For more information about how to use BART, see the [public transit](../travel/public_transit.md) page.
+
+!!! warning "East Dublin/Pleasanton BART Station"
+
+    Note that there are 2 `Dublin/Pleasanton BART` stations. We will have drivers at only the East station (last stop of the line).
+
+#### Shuttle
+
+For the shuttle, take a right when exiting the BART station towards Pleasanton. Do not go left which goes toward Dublin. The shuttle driver will pick you up in the taxi/ride share pick up/drop off area on the Pleasanton side. 
+
+!!! note "Call or Text The Shuttle Coordinator"
+
+    Please text or call <a id="driver-number"></a> to facilitate pick up (from BART to reception) or drop off (from reception to BART).
+
+<script>
+let phone_number = atob('OTI1LTkyMi0yODQw');
+let num = document.getElementById("driver-number");
+num.innerHTML = phone_number;
+num.href = `tel:+1-${phone_number}`
+</script>
+
+#### From San Francisco
+
+There are multiple entrances into the system, but the most direct ones in the city can be found on Market Street. 
+
+Regardless of the station, you’ll want to take the Blue Line to the East Dublin/Pleasanton station.
+
+
 ### Parking
 
 Feel free to park along Curtis Circle, avoiding blocking driveways. You may also park along Parkside Drive but only on the residential side. You may also park in the parking lot for the park but this will be more inconvenient for you.
@@ -42,21 +74,4 @@ Feel free to park along Curtis Circle, avoiding blocking driveways. You may also
 
 Feel free to park where it's marked red (of course avoiding blocking driveways and being mindful of the neighbors).
 
-### BART (Bay Area Rapid Transit)
-
-If you can make it to the East Dublin/Pleasanton BART Station, we will pick you up! We have a number of volunteer drivers that will take you to and from the station and the reception venue throughout the afternoon and evening!
-
-For the shuttle, take a right when exiting the BART station towards Pleasanton. Do not go left which goes toward Dublin. The shuttle driver will pick you up in the taxi/ride share pick up/drop off area on the Pleasanton side. Please text or call <span id="driver-number"></span> to facilitate pick up (from BART to reception) or drop off (from reception to BART).
-
-For more information about how to use BART, see the [public transit](../travel/public_transit.md) page.
-
-!!! warning "East Dublin/Pleasanton BART Station"
-
-    Note that there are 2 `Dublin/Pleasanton BART` stations. We will have drivers at only the East station (last stop of the line).
-
-
-#### From San Francisco
-
-There are multiple entrances into the system, but the most direct ones in the city can be found on Market Street. 
-
-Regardless of the station, you’ll want to take the Blue Line to the East Dublin/Pleasanton station.
+If you have any issues, please call the Shuttle Coordinator (see [Shuttle](#shuttle) section for the number).
