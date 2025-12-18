@@ -580,15 +580,6 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#parking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parking
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#bart-bay-area-rapid-transit" class="md-nav__link">
     <span class="md-ellipsis">
       BART (Bay Area Rapid Transit)
@@ -597,6 +588,15 @@
   
     <nav class="md-nav" aria-label="BART (Bay Area Rapid Transit)">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#shuttle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shuttle
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#from-san-francisco" class="md-nav__link">
@@ -609,6 +609,15 @@
         
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parking" class="md-nav__link">
+    <span class="md-ellipsis">
+      Parking
+    </span>
+  </a>
   
 </li>
         
@@ -878,15 +887,6 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#parking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parking
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#bart-bay-area-rapid-transit" class="md-nav__link">
     <span class="md-ellipsis">
       BART (Bay Area Rapid Transit)
@@ -895,6 +895,15 @@
   
     <nav class="md-nav" aria-label="BART (Bay Area Rapid Transit)">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#shuttle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shuttle
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#from-san-francisco" class="md-nav__link">
@@ -907,6 +916,15 @@
         
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#parking" class="md-nav__link">
+    <span class="md-ellipsis">
+      Parking
+    </span>
+  </a>
   
 </li>
         
@@ -941,11 +959,12 @@
 <li><a href="#dress-code">Dress Code</a></li>
 <li><a href="#what-to-bring">What to Bring</a></li>
 <li><a href="#getting-here">Getting Here</a><ul>
-<li><a href="#parking">Parking</a></li>
 <li><a href="#bart-bay-area-rapid-transit">BART (Bay Area Rapid Transit)</a><ul>
+<li><a href="#shuttle">Shuttle</a></li>
 <li><a href="#from-san-francisco">From San Francisco</a></li>
 </ul>
 </li>
+<li><a href="#parking">Parking</a></li>
 </ul>
 </li>
 </ul>
@@ -968,21 +987,34 @@
 <h2 id="what-to-bring">What to Bring</h2>
 <p>Celebrating with you is all we want, truly!</p>
 <h2 id="getting-here">Getting Here</h2>
-<h3 id="parking">Parking</h3>
-<p>Feel free to park along Curtis Circle, avoiding blocking driveways. You may also park along Parkside Drive but only on the residential side. You may also park in the parking lot for the park but this will be more inconvenient for you.</p>
-<p><img alt="parking" src="../parking.png" /></p>
-<p>Feel free to park where it's marked red (of course avoiding blocking driveways and being mindful of the neighbors).</p>
 <h3 id="bart-bay-area-rapid-transit">BART (Bay Area Rapid Transit)</h3>
 <p>If you can make it to the East Dublin/Pleasanton BART Station, we will pick you up! We have a number of volunteer drivers that will take you to and from the station and the reception venue throughout the afternoon and evening!</p>
-<p>For the shuttle, take a right when exiting the BART station towards Pleasanton. Do not go left which goes toward Dublin. The shuttle driver will pick you up in the taxi/ride share pick up/drop off area on the Pleasanton side. Please text or call <span id="driver-number"></span> to facilitate pick up (from BART to reception) or drop off (from reception to BART).</p>
 <p>For more information about how to use BART, see the <a href="../../travel/public_transit/">public transit</a> page.</p>
 <div class="admonition warning">
 <p class="admonition-title">East Dublin/Pleasanton BART Station</p>
 <p>Note that there are 2 <code>Dublin/Pleasanton BART</code> stations. We will have drivers at only the East station (last stop of the line).</p>
 </div>
+<h4 id="shuttle">Shuttle</h4>
+<p>For the shuttle, take a right when exiting the BART station towards Pleasanton. Do not go left which goes toward Dublin. The shuttle driver will pick you up in the taxi/ride share pick up/drop off area on the Pleasanton side. </p>
+<div class="admonition note">
+<p class="admonition-title">Call or Text The Shuttle Coordinator</p>
+<p>Please text or call <a id="driver-number"></a> to facilitate pick up (from BART to reception) or drop off (from reception to BART).</p>
+</div>
+<script>
+let phone_number = atob('OTI1LTkyMi0yODQw');
+let num = document.getElementById("driver-number");
+num.innerHTML = phone_number;
+num.href = `tel:+1-${phone_number}`
+</script>
+
 <h4 id="from-san-francisco">From San Francisco</h4>
 <p>There are multiple entrances into the system, but the most direct ones in the city can be found on Market Street. </p>
 <p>Regardless of the station, you’ll want to take the Blue Line to the East Dublin/Pleasanton station.</p>
+<h3 id="parking">Parking</h3>
+<p>Feel free to park along Curtis Circle, avoiding blocking driveways. You may also park along Parkside Drive but only on the residential side. You may also park in the parking lot for the park but this will be more inconvenient for you.</p>
+<p><img alt="parking" src="../parking.png" /></p>
+<p>Feel free to park where it's marked red (of course avoiding blocking driveways and being mindful of the neighbors).</p>
+<p>If you have any issues, please call the Shuttle Coordinator (see <a href="#shuttle">Shuttle</a> section for the number).</p>
 <div class="footnote">
 <hr />
 <ol>
