@@ -34,17 +34,26 @@ Celebrating with you is all we want, truly!
 
 ## Getting Here
 
+### Parking
 
+Feel free to park along Curtis Circle, avoiding blocking driveways. You may also park along Parkside Drive but only on the residential side. You may also park in the parking lot for the park but this will be more inconvenient for you.
+
+![parking](./parking.png)
+
+Feel free to park where it's marked red (of course avoiding blocking driveways and being mindful of the neighbors).
 
 ### BART (Bay Area Rapid Transit)
 
-If you can make it to the East Dublin/Pleasanton BART Station, we will pick you up! We have a schedule of volunteer drivers that will take you to and from the station and the reception venue throughout the afternoon and evening!
+If you can make it to the East Dublin/Pleasanton BART Station, we will pick you up! We have a number of volunteer drivers that will take you to and from the station and the reception venue throughout the afternoon and evening!
+
+For the shuttle, take a right when exiting the BART station towards Pleasanton. Do not go left which goes toward Dublin. The shuttle driver will pick you up in the taxi/ride share pick up/drop off area on the Pleasanton side. Please text or call <span id="driver-number"></span> to facilitate pick up (from BART to reception) or drop off (from reception to BART).
 
 For more information about how to use BART, see the [public transit](../travel/public_transit.md) page.
 
 !!! warning "East Dublin/Pleasanton BART Station"
 
     Note that there are 2 `Dublin/Pleasanton BART` stations. We will have drivers at only the East station (last stop of the line).
+
 
 #### From San Francisco
 
